@@ -7,13 +7,13 @@
 	<key>CFBundleDisplayName</key>
 	<string>Hyphenator</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.mattball.betterjustification</string>
+	<string>com.mattball.safari.hyphenator</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>1.0</string>
 	<key>Chrome</key>
 	<dict/>
 	<key>Content</key>
@@ -44,6 +44,8 @@
 			<string>All</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>http://github.com/mattball/Hyphenator-safari-extension/raw/master/version.plist</string>
 	<key>Website</key>
 	<string>http://github.com/mattball/Hyphenator-safari-extension</string>
 </dict>
