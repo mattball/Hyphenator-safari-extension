@@ -26,7 +26,7 @@
 			</array>
 			<key>Start</key>
 			<array>
-				<string>hyphenator.js</string>
+				<string>hyphenator/hyphenator.js</string>
 			</array>
 		</dict>
 	</dict>
