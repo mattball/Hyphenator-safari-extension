@@ -3,4 +3,4 @@ Hyphenator Extension for Safari
 
 Provides for proper hyphenation of justified paragraphs.
 
-This extension makes extensive us of [Hyphenator.js](http://code.google.com/p/hyphenator/).
+This extension makes extensive use of [Hyphenator.js](http://code.google.com/p/hyphenator/).
