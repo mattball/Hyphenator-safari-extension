@@ -1,6 +1,6 @@
 Hyphenator Extension for Safari
 ===============================
 
-Provides for proper hyphenation of <p> blocks with the text-align attribute set to "justify".
+Provides for proper hyphenation of justified paragraphs.
 
 This extension makes extensive us of [Hyphenator.js](http://code.google.com/p/hyphenator/).
